@@ -1,0 +1,17 @@
+header a{
+	line-height: 44px;
+}
+.search-main{
+	margin-top: 10px;
+}
+.mui-collapse-content p{
+	line-height: 26px;
+	cursor: pointer;
+}
+.mui-collapse-content p:hover{
+	color: #333;
+}
+.mui-content .search-main .mui-table-view .mui-table-view-cell span{
+	right:30px;
+}
+
